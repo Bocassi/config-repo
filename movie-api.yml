@@ -23,7 +23,7 @@ spring:
           starttls:
             enable: true
   application:
-    name: ms.movie
+    name: movie-api
 
   mvc:
     pathmatch:
